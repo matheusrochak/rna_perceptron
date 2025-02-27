@@ -1,6 +1,6 @@
 # Reconhecimento de Dígitos com RNA Perceptron de Monocamada.
 
-Este projeto implementa uma Rede Neural Artificial (RNA) do tipo **Perceptron de uma camada** para reconhecer os dígitos `0` e `1` a partir de uma matriz de pixels **4x4**.
+Este projeto implementa uma Rede Neural Artificial (RNA) do tipo **Perceptron de monocamada** para reconhecer os dígitos `0` e `1` a partir de uma matriz de pixels **4x4**.
 
 ## 🚀 Tecnologias Utilizadas
 - Python 3
